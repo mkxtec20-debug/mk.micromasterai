@@ -1,0 +1,44 @@
+========================================================================
+HOW TO UPLOAD THIS FOLDER TO GITHUB (NO CODING / NO GIT INSTALL NEEDED)
+========================================================================
+
+Follow these 3 quick steps to make your website live on GitHub:
+
+STEP 1: CREATE A REPOSITORY ON GITHUB
+------------------------------------------------------------------------
+1. Open your browser and go to: https://github.com
+2. Sign in to your GitHub account (or sign up if you don't have one).
+3. Click the "+" (plus sign) at top right and select "New repository".
+4. Set Repository Name to: madhav-kumar-portfolio
+5. Choose "Public".
+6. Click the green button: "Create repository".
+
+
+STEP 2: UPLOAD THE FILES
+------------------------------------------------------------------------
+1. On your new repository page, click the link: "uploading an existing file".
+2. Open this folder in Windows Explorer:
+   C:\Users\pcc\.gemini\antigravity\scratch\Madhav-Kumar-Portfolio-GitHub
+3. Select and DRAG ALL the files and the "assets" folder directly onto 
+   the GitHub upload area in your browser:
+   - index.html
+   - assets (folder containing css, js, images, vcf)
+   - README.md
+   - LICENSE
+   - .gitignore
+4. Scroll down and click the green button: "Commit changes".
+
+
+STEP 3: TURN ON FREE GITHUB PAGES HOSTING
+------------------------------------------------------------------------
+1. In your repository on GitHub, click "Settings" (top menu).
+2. In the left menu, click "Pages".
+3. Under "Branch", change "None" to "main" (or "master").
+4. Keep the folder as "/ (root)".
+5. Click "Save".
+
+Within 1 minute, GitHub will give you your free live website link:
+https://<your-username>.github.io/madhav-kumar-portfolio/
+
+Share this link on your Instagram bio (@madhav30770) or with friends!
+========================================================================
